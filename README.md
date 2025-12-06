@@ -117,8 +117,8 @@ python retrain_models.py
 
 1. **Clone this repository or unzip it:**
    ```bash
-   git clone https://github.com/yourusername/EduPredict_Project.git
-   cd EduPredict_Project
+   git clone https://github.com/ShaikhMinhajUddin/EduPredict
+   cd EduPredict
    ```
 
 2. **Install dependencies:**
