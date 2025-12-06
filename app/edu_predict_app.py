@@ -1150,7 +1150,7 @@ if st.session_state.logged_in:
             st.info("🧠 Identify high-risk cases and intervene proactively as a counselor.")
 
         st.markdown("### 📬 Feedback & Support")
-        st.markdown("[📩 Submit Feedback](https://forms.gle/Am71U3oEjHG42sJ59)")
+        st.markdown("[📩 Submit Feedback](https://forms.gle/FExWubPYQMoscJXq8)")
         st.markdown("""
         <div style='text-align: center; padding: 2rem; background: rgba(255,255,255,0.1); 
              border-radius: 15px; margin-top: 2rem;'>
