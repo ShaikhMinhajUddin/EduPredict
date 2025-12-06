@@ -122,12 +122,12 @@ python retrain_models.py
    ```
 
 2. **Install dependencies:**
-   bash
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
    If you plan to export charts as PNG from the app, also install:
-   bash
+   ```bash
    pip install kaleido
    ```
 
@@ -143,16 +143,16 @@ python retrain_models.py
 
 ---
 
-## Dashboard Preview (Screenshots)
+## 📸 Dashboard Preview (Screenshots)
 
 See `assets/screenshots` for screenshots
 
+---
 
-
-## Feedback Integration
+## 📥 Feedback Integration
 
 Google Form is integrated for collecting feedback: 
-🔗 **[Submit Feedback Here](https://forms.gle/Am71U3oEjHG42sJ59)**
+🔗 **[Submit Feedback Here](https://forms.gle/FExWubPYQMoscJXq8)**
 
 ---
 
